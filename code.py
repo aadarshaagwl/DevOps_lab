@@ -1,2 +1,3 @@
+print("Code")
 print("Hello")
 
